@@ -1,0 +1,8 @@
+<Ui xmlns="[http://www.blizzard.com/wow/ui/">
+<Script file="autoResponse.lua"/>
+<Scripts>
+<OnLoad>
+this:RegisterEvent("VARIABLES_LOADED");
+</OnLoad>
+</Scripts>
+</Ui>

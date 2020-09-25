@@ -1,0 +1,6 @@
+## Interface: 30200
+## Author: 1111
+## Version: 1.0
+## Title:like
+## SavedVariablesPerCharacter: autoResponseEenabled
+1.xml
